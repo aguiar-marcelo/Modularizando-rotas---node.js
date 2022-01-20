@@ -1,3 +1,5 @@
+//npm install express --save  //instala o express
+//npm install router --save  //instala o modulo router
 const express = require('express')
 const rotas = express.Router()
 
